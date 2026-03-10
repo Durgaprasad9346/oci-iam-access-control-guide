@@ -61,6 +61,15 @@ The repository contains detailed documentation for the following IAM concepts:
 - Dynamic groups and instance principals
 - Advanced IAM access patterns
 
+## Use Cases
+
+This IAM architecture can be used in the following scenarios:
+
+- Securing access to OCI compute and storage resources
+- Enabling instance-based authentication using Instance Principals
+- Implementing least privilege access using IAM policies
+- Automating service authentication using Dynamic Groups
+
 ---
 
 ## Learning Outcome
