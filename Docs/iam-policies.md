@@ -20,3 +20,12 @@ Allow group DevOps to manage instance-family in compartment Production
 - Verb (inspect, read, use, manage)
 - Resource type
 - Compartment scope
+
+
+Example Policies
+
+Allow group DevOps to manage instance-family in compartment Dev
+
+Allow group NetworkAdmins to manage virtual-network-family in compartment Network
+
+Allow dynamic-group app-instances to read buckets in compartment Storage
